@@ -1,0 +1,13 @@
+.VacationsReport h1 {
+    color: white;
+}
+
+.VacationsReport .CsvLink {
+    position: absolute;
+    right: 100px;
+    size: 50px;
+}
+
+.VacationsReport .css-i4bv87-MuiSvgIcon-root {
+    font-size: 30px;
+}

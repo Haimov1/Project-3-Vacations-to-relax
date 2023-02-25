@@ -1,0 +1,36 @@
+.Register .css-nzinn5-MuiContainer-root {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 0 0 5px;
+    padding: 10px;
+    color: white;
+}
+
+.Register .MuiOutlinedInput-root {
+    color: white;
+}
+
+.Register Button {
+    background-color: white;
+    color: black;
+}
+
+.Register Button:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.Register .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline,
+.Register .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: white;
+}
+
+.Register .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root,
+.Register .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused,
+.Register .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    color: white;
+}

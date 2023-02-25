@@ -1,0 +1,40 @@
+.Login .css-nzinn5-MuiContainer-root {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 0 0 5px;
+    padding: 10px;
+    color: white;
+}
+
+input:-webkit-autofill {
+    transition: background-color 5000s ease-in-out 0s, color 5000s ease-in-out 0s;
+}
+
+.Login .MuiOutlinedInput-root {
+    color: white;
+}
+
+.Login Button {
+    background-color: white;
+    color: black;
+}
+
+.Login Button:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.Login .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline,
+.Login .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: white;
+}
+
+.Login .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root,
+.Login .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused,
+.Login .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    color: white;
+}

@@ -1,0 +1,14 @@
+.Menu .MuiSpeedDial-fab {
+    background-color: white;
+    color: black;
+}
+
+.Menu .MuiSpeedDial-fab:hover {
+    background-color: rgb(37, 99, 255);
+    color: white;
+}
+
+.Menu .MuiSpeedDialAction-fab {
+    background-color: white;
+    color: black;
+}

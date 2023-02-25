@@ -1,0 +1,61 @@
+.Pagination {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: large;
+    gap: 5px;
+}
+
+.Pagination .Page-num {
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: 400;
+}
+
+.Pagination .Page-num:hover {
+    background-color: white;
+    color: black;
+}
+
+.Pagination .Active {
+    background-color: white;
+    color: black;
+}
+
+label {
+    color: white;
+}
+
+.Checkbox {
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    gap: 10px;
+}
+
+.Checkbox>input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    box-shadow: 0 0 0 2px black;
+    border: 3px solid white;
+}
+
+.Checkbox>input:checked {
+    background-color: white;
+}
+
+.MissingVacationErr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-size: xx-large;
+    color: white;
+}

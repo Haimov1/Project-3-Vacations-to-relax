@@ -1,0 +1,9 @@
+.PageNotFound>img {
+    width: auto;
+    height: 500px;
+}
+
+.PageNotFound p {
+    color: white;
+    font-size: xx-large;
+}

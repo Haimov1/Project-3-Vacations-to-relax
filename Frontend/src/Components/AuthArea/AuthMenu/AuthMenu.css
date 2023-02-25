@@ -1,0 +1,18 @@
+.AuthMenu {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.LogoutButton {
+    color: black;
+}
+
+.AuthMenu .MuiButton-root {
+    color: white;
+}
+
+.AuthMenu .css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: transparent;
+    box-shadow: 0 0 5px;
+}

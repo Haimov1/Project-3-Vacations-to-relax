@@ -1,0 +1,56 @@
+.AddVacation .css-nzinn5-MuiContainer-root {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 20px;
+    box-shadow: 0 0 5px;
+    padding: 10px;
+    color: white;
+}
+
+.AddVacation img {
+    max-width: auto;
+    max-height: 90px;
+}
+
+input:-webkit-autofill {
+    transition: background-color 5000s ease-in-out 0s, color 5000s ease-in-out 0s;
+}
+
+.AddVacation .MuiOutlinedInput-root {
+    color: white;
+}
+
+.AddVacation .BackButton {
+    background-color: transparent !important;
+    color: white !important;
+    display: flex;
+    font-size: 30px;
+}
+
+.AddVacation Button,
+.AddVacation .css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+}
+
+.AddVacation Button:hover,
+.AddVacation .css-1e6y48t-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.AddVacation .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline,
+.AddVacation .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline,
+.AddVacation .css-8ewcdo-MuiInputBase-root-MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: white;
+}
+
+.AddVacation .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root,
+.AddVacation .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root.Mui-focused,
+.AddVacation .css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    color: white;
+}
